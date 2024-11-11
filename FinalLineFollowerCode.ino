@@ -1,3 +1,4 @@
+//MXEN 3000 Vehicle code 
 //Communication variables
 const byte START = 255;
 byte startByte = 0;
